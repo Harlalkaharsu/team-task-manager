@@ -1,0 +1,15 @@
+{
+  "name": "team-task-manager",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "node backend/src/index.js",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "postinstall": "npm install --prefix backend"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
