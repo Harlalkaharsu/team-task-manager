@@ -3,7 +3,7 @@
 A full-stack team project and task management web app with role-based access control.
 
 **Live Demo:** [https://your-app.railway.app](https://your-app.railway.app)  
-**GitHub:** [https://github.com/your-username/team-task-manager](https://github.com/your-username/team-task-manager)
+**GitHub:** [https://github.com/harlalkaharsu/team-task-manager](https://github.com/Harlalkaharsu/team-task-manager)
 
 ---
 
